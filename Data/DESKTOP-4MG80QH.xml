@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataStore xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Created>2023-02-15T14:10:43.7900028-05:00</Created>
+  <Updated>2023-02-15T14:10:48.9398416-05:00</Updated>
+  <Log />
+  <Computers>
+    <Computer>
+      <DiscoveryName>DESKTOP-4MG80QH</DiscoveryName>
+      <DiscoverySource>SingleComputer</DiscoverySource>
+      <NameFromWMI>DESKTOP-4MG80QH</NameFromWMI>
+      <ConnectedIpAddress>172.16.10.175</ConnectedIpAddress>
+      <ScanStart>2023-02-15T14:10:44.8399711-05:00</ScanStart>
+      <ScanFinish>2023-02-15T14:10:48.9398416-05:00</ScanFinish>
+      <LastSuccessfulScan>2023-02-15T14:10:48.9398416-05:00</LastSuccessfulScan>
+      <ErrorOccurred>false</ErrorOccurred>
+      <Hardware>
+        <Make>Dell Inc.</Make>
+        <Model>Inspiron 660s</Model>
+        <Class>Desktop</Class>
+        <IsVirtual>false</IsVirtual>
+        <SerialNumber>FFLZ9Z1</SerialNumber>
+        <SystemSku>To be filled by O.E.M.</SystemSku>
+        <OperatingSystem>Microsoft Windows 10 Home Single Language</OperatingSystem>
+        <OsVersion>10.0.19045</OsVersion>
+        <ServicePack>RTM</ServicePack>
+        <Domain>WORKGROUP</Domain>
+        <IpAddress>172.16.10.175;fe80::a195:4be3:9123:6dda</IpAddress>
+        <CpuName>Intel(R) Pentium(R) CPU G2030 @ 3.00GHz</CpuName>
+        <CpuCount>1</CpuCount>
+        <CpuCores>2</CpuCores>
+        <CoreThreads>1</CoreThreads>
+        <CpuLogical>2</CpuLogical>
+        <CpuSpeed>3000</CpuSpeed>
+        <RamInBytes>10602737664</RamInBytes>
+        <User>DESKTOP-4MG80QH\Prueba</User>
+        <LastSeenDate>2023-02-15T14:10:45.2499584-05:00</LastSeenDate>
+        <BiosDate>2013-05-10T00:00:00</BiosDate>
+        <MultiThreading>false</MultiThreading>
+        <WindowsInstallDate>2023-02-02T15:10:00</WindowsInstallDate>
+        <HyperVEnabled>false</HyperVEnabled>
+        <NetworkAdapters />
+        <Disks />
+        <Lcid>2058</Lcid>
+        <LcidCode>es-MX</LcidCode>
+        <LcidName>Spanish (Mexico)</LcidName>
+        <TimeZone>(UTC-05:00) Bogotá, Lima, Quito, Rio Branco</TimeZone>
+        <MsSCL xsi:nil="true" />
+      </Hardware>
+      <ActiveDirectory>
+        <QueryDate xsi:nil="true" />
+        <IsEnabled xsi:nil="true" />
+        <LastLogonDate xsi:nil="true" />
+        <CreatedDate xsi:nil="true" />
+      </ActiveDirectory>
+      <SqlInstances />
+      <SoftwareInstalls />
+      <SoftwareLogs />
+      <ExchangeInstance>
+        <ScanDate xsi:nil="true" />
+      </ExchangeInstance>
+      <SerialNumbers />
+      <Files />
+      <Errors />
+      <SoftwareLastUsed />
+      <AntiVirusProducts />
+      <RunningProcesses />
+      <EnvironmentVariables />
+      <FlexLmLicenseServers />
+      <RegistryKeys />
+      <VirtualMachines />
+    </Computer>
+  </Computers>
+</DataStore>
