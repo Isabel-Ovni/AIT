@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FilePackages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Publisher Name="Autodesk">
+    <Package Name="LGS Licence Files">
+      <File Path="%ProgramData%\Autodesk\CLM\LGS\" FileName="LGS" Extension="DATA" Collect="true" Decode="AutodeskLGS" Recurse="true" />
+    </Package>
+    <Package Name="LICPATH Files">
+      <File Path="%ProgramData%\Autodesk\CLM\LGS\" FileName="LICPATH" Extension="LIC" Collect="true" Decode="AutodeskLICPATH" Recurse="true" />
+      <File Path="C:\Program Files\Autodesk\" FileName="LICPATH" Extension="LIC" Collect="true" Decode="AutodeskLICPATH" Recurse="true" />
+      <File Path="C:\Program Files (x86)\Autodesk\" FileName="LICPATH" Extension="LIC" Collect="true" Decode="AutodeskLICPATH" Recurse="true" />
+    </Package>
+    <Package Name="PIT Licence Files">
+      <File Path="%ProgramData%\Autodesk\Adlm\" FileName="ProductInformation" Extension="pit" Collect="true" Decode="AutodeskPIT" />
+    </Package>
+    <Package Name="Installer Helper">
+      <Process WaitMs="2000">
+        <![CDATA[
+@ECHO OFF
+TITLE ScanWin Autodesk License Helper Script v1.1
+
+CD /D "%ALLUSERSPROFILE%"
+
+IF EXIST "%ProgramFiles(x86)%\Common Files\Autodesk Shared\AdskLicensing\Current\helper\AdskLicensingInstHelper.exe" GOTO EXISTS1
+IF EXIST "%ProgramFiles%\Common Files\Autodesk Shared\AdskLicensing\Current\helper\AdskLicensingInstHelper.exe" GOTO EXISTS2
+ECHO SCANWIN:%COMPUTERNAME% does not have AdskLicensingInstHelper.exe in expected path > ScanWin_AdskLicenseHelper.json
+GOTO :END
+
+:EXISTS1
+"%ProgramFiles(x86)%\Common Files\Autodesk Shared\AdskLicensing\Current\helper\AdskLicensingInstHelper.exe" list > ScanWin_AdskLicenseHelper.json
+GOTO :END
+
+:EXISTS2
+"%ProgramFiles%\Common Files\Autodesk Shared\AdskLicensing\Current\helper\AdskLicensingInstHelper.exe" list > ScanWin_AdskLicenseHelper.json
+GOTO :END
+
+:END
+EXIT
+        ]]>
+      </Process>
+      <File Path="%ProgramData%" FileName="ScanWin_AdskLicenseHelper" Extension="json" Collect="true" Decode="AutodeskInstallerHelper" Delete="true" />
+    </Package>
+    <Package Name="User Subscriptions">
+      <Process WaitMs="2000">
+        <![CDATA[
+@ECHO OFF
+TITLE ScanWin Autodesk User Subscription Script v1.1
+
+SET OrigPath="%ALLUSERSPROFILE%"
+IF DEFINED PUBLIC GOTO :start
+ECHO SCANWIN:%COMPUTERNAME% PUBLIC environmental variable not defined >> "%OrigPath%\ScanWin_Status.txt"
+GOTO :end
+
+:start
+IF EXIST "%OrigPath%\ScanWin_SidecarId.txt" DEL "%OrigPath%\ScanWin_SidecarId.txt"
+IF EXIST "%OrigPath%\ScanWin_OxygenId.txt" DEL "%OrigPath%\ScanWin_OxygenId.txt"
+
+CD /D "%public%\.."
+
+FOR /D %%d IN (*) DO (
+  IF EXIST "%%d\AppData\Local\Autodesk\Genuine Autodesk Service\id.dat" (
+    ECHO SCANWIN:%%d>> "%OrigPath%\ScanWin_SidecarId.txt"
+    TYPE "%%d\AppData\Local\Autodesk\Genuine Autodesk Service\id.dat" >> "%OrigPath%\ScanWin_SidecarId.txt"
+    ECHO.>> "%OrigPath%\ScanWin_SidecarId.txt"
+  )
+  IF EXIST "%%d\AppData\Local\Autodesk\Web Services\LoginState.xml" (
+    ECHO SCANWIN:%%d>> "%OrigPath%\ScanWin_OxygenId.txt"
+    TYPE "%%d\AppData\Local\Autodesk\Web Services\LoginState.xml" >> "%OrigPath%\ScanWin_OxygenId.txt"
+    ECHO.>> "%OrigPath%\ScanWin_OxygenId.txt"
+  )
+)
+
+GOTO :end
+
+:end
+CD /D %OrigPath%
+SET OrigPath=
+EXIT
+        ]]>
+      </Process>
+      <File Path="%ProgramData%" FileName="ScanWin_OxygenId" Extension="txt" Collect="true" Decode="AutodeskOxygen" Delete="true" />
+      <File Path="%ProgramData%" FileName="ScanWin_SidecarId" Extension="txt" Collect="true" Decode="AutodeskSidecar" Delete="true" />
+      <File Path="%ProgramData%" FileName="ScanWin_Status" Extension="txt" Collect="true" Decode="None" Delete="true" />
+    </Package>
+    <Package Name="ADLM Data">
+      <File Path="%ProgramData%\Autodesk\AdLM\" FileName="*RegInfo" Extension="html" Collect="true" Decode="AutodeskAdlmHtml" />
+    </Package>
+    <Package Name="GenuineTxt">
+      <Process WaitMs="10000">
+        <![CDATA[
+@echo off
+Title ScanWin Locate and collect Autodesk Genuine.txt Files v1.0
+
+set FILESFOUND=
+set USERSFOLDER=
+set OUTPUTFOLDER=%ALLUSERSPROFILE%
+if not defined OUTPUTFOLDER (
+  set OUTPUTFOLDER=C:\ProgramData
+)
+set OUTPUTFILE="%OUTPUTFOLDER%\ScanWin_AutodeskGenuine.txt"
+set ADGv40=AppData\Local\Autodesk\Genuine Autodesk Service\genuine.txt
+set ADGv31=AppData\Local\Programs\Autodesk\Genuine Service\genuine.txt
+set ADGv30=Autodesk\Genuine Service\genuine.txt
+
+if exist %OUTPUTFILE% del /q %OUTPUTFILE%
+echo SCANWIN: Start: %time% >> %OUTPUTFILE%
+
+call :locateUsersFolder
+
+if not defined USERSFOLDER (
+  echo SCANWIN: Unable to locate USERS folder >> %OUTPUTFILE%
+  echo SCANWIN: End: %time% >> %OUTPUTFILE%
+  goto :eof
+)
+
+if not exist %USERSFOLDER% (
+  echo SCANWIN: Invalid USERS folder: %USERSFOLDER% >> %OUTPUTFILE%
+  echo SCANWIN: End: %time% >> %OUTPUTFILE%
+  goto :eof
+)
+
+echo SCANWIN: Located User Profile folder: %USERSFOLDER% >> %OUTPUTFILE%
+
+for /d %%d in (%USERSFOLDER%\*.*) do (
+  echo SCANWIN: Found User folder: "%%d" >> %OUTPUTFILE%
+  call :processUser "%%d"
+)
+
+echo SCANWIN: End: %time% >> %OUTPUTFILE%
+goto :eof
+
+:locateUsersFolder
+if exist "%userprofile%\.." (
+  pushd "%userprofile%\.."
+  for /f "tokens=*" %%a in ('cd') do @set USERSFOLDER="%%a"
+  popd
+)
+
+if /i "%USERSFOLDER%"==""C:\Windows\System32\config"" set "USERSFOLDER="
+
+if not defined USERSFOLDER (
+  if exist "C:\Users" (
+    set USERSFOLDER="C:\Users"
+  ) else (
+    if exist "C:\Documents and Settings" set USERSFOLDER="C:\Documents and Settings"
+  )
+)
+goto :eof
+
+:processUser
+call :locateGenuineFile "%~1\%ADGv40%"
+call :locateGenuineFile "%~1\%ADGv31%"
+call :locateGenuineFile "%~1\%ADGv30%"
+
+if not defined FILESFOUND echo SCANWIN: Autodesk Genuine.txt files not found >> %OUTPUTFILE%
+set FILESFOUND=
+goto :eof
+
+:locateGenuineFile
+if exist %1 (
+  echo SCANWIN: Found File: %1 >> %OUTPUTFILE%
+  type %1 >> %OUTPUTFILE%
+  set FILESFOUND=1
+)
+goto :eof
+        ]]>
+      </Process>
+      <File Path="%ProgramData%" FileName="ScanWin_AutodeskGenuine" Extension="txt" Collect="true" Decode="AutodeskGenuineTxt" Delete="true" />
+    </Package>
+  </Publisher>
+</FilePackages>

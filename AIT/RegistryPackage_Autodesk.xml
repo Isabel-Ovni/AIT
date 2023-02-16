@@ -1,0 +1,3017 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RegistryPackages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Publisher Name="Autodesk">
+    <Package Name="Autodesk Architectural Studio 1">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Architectural Studio\1.0\">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Architectural Studio 3">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Architectural Studio\3.0\">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication CADmep 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2013\CADmep\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication CAMduct 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2013\CAMduct\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication ESTmep 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2013\ESTmep\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication FABmep 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2013\FABmep\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication Tracker 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2013\Tracker\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication RemoteEntry 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2013\RemoteEntry\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication CADmep 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2014\CADmep\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication CAMduct 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2014\CAMduct\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication ESTmep 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2014\ESTmep\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication Tracker 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2014\Tracker\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication RemoteEntry 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2014\RemoteEntry\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication CADmep 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2015\CADmep\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication CAMduct 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2015\CAMduct\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication ESTmep 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2015\ESTmep\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication CADmep 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2016\CADmep\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication CAMduct 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2016\CAMduct\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Fabrication ESTmep 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Fabrication 2016\ESTmep\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation CFD 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Simulation CFD\12.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation CFD 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Simulation CFD\13.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation CFD 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Simulation CFD\14.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation CFD 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Simulation CFD\15.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation CFD 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Simulation CFD\16.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Point Layout 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Autodesk Point Layout\2014\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Point Layout 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Autodesk Point Layout\2015\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Point Layout 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Autodesk Point Layout\2016\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Structural Bridge Design 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Structural Bridge Design\2014\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Structural Bridge Design 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Structural Bridge Design\2015\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Structural Bridge Design 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Structural Bridge Design\2016\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Turtle For Maya Premium 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\MayaTurtle\2012\MAYATURTLE-1\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Advance Steel 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdvanceSteel\2015\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Advance Steel 2015.1" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdvanceSteel\2015.1\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Advance Steel 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdvanceSteel\2016\adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Automotive 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasAutomotive\2010\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Automotive 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasAutomotive\2011\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Automotive 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasAutomotive\2012\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Automotive 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasAutomotive\2013\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Automotive 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasAutomotive\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Automotive 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasAutomotive\2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Automotive 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasAutomotive\2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias AutoStudio 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasAutoStudio\2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias AutoStudio 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasAutoStudio\2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Design 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasDesign\2010\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Design 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasDesign\2011\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Design 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasDesign\2012\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Design 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasDesign\2013\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Design 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasDesign\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Design 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasDesign\2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Design 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasDesign\2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Surface 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasSurface\2010\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Surface 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasSurface\2011\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Surface 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasSurface\2012\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Surface 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasSurface\2013\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Surface 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasSurface\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Surface 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasSurface\2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Surface 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\AliasSurface\2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Maya 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Maya\2010\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Maya 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Maya\2011\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Maya 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Maya\2012\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Maya 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Maya\2013\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Maya 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Maya\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Maya 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Maya\2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Maya 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Maya\2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Maya LT 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\MayaLT\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Maya LT 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\MayaLT\2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Maya LT 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\MayaLT\2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk MotionBuilder 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\MotionBuilder\2010\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk MotionBuilder 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\MotionBuilder\2011\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk MotionBuilder 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\MotionBuilder\2012\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk MotionBuilder 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\MotionBuilder\2013\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk MotionBuilder 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\MotionBuilder\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk MotionBuilder 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\MotionBuilder\2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk MotionBuilder 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\MotionBuilder\2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mudbox 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Mudbox\2010\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mudbox 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Mudbox\2011\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mudbox 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Mudbox\2012\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mudbox 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Mudbox\2013\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mudbox 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Mudbox\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mudbox 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Mudbox\2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mudbox 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Mudbox\2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Showcase 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Showcase\2010\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Showcase 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Showcase\2011\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Showcase 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Showcase\2012\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Showcase 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Showcase\2013\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Showcase 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Showcase\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Showcase 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Showcase\2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Showcase 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\Showcase\2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk ReCap Pro" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk ReCap\R1.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk ReCap 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk ReCap\R1.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk ReCap 360 Ultimate" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk ReCap 360\R1.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Actrix 2000">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Actrix\2.0\User\">
+        <Property ResultName="Serial" PropertyName="ProductID" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD R14">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R14.0\ACAD-1:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD 2000">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R15.0\ACAD-1:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD 2000i">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R15.0\ACAD-1:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD 2002">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R15.0\ACAD-1:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD 2004">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.0\ACAD-201:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD 2005">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.1\ACAD-301:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD 2006">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.2\ACAD-4001:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD 2007">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.0\ACAD-5001:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD 2008">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.1\ACAD-6001:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7001:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.0\ACAD-8001:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.1\ACAD-9001:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.2\ACAD-A001:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.0\ACAD-B001\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.1\ACAD-D001\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.0\ACAD-E001\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.1\ACAD-F001\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Architectural Desktop 3.3 (2002)">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R15.0\ACAD-12:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Architectural Desktop 2004">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.0\ACAD-204:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Architectural Desktop 2005">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.1\ACAD-304:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Architectural Desktop 2006">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.2\ACAD-4004:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Architectural Desktop 2007">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.0\ACAD-5004:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Architecture 2008">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.1\ACAD-6004:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Architecture 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7004:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Architecture 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.0\ACAD-8004:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Architecture 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.1\ACAD-9004:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Architecture 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.2\ACAD-A004:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Architecture 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.0\ACAD-B004\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Architecture 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.1\ACAD-D004\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Architecture 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.0\ACAD-E004\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Architecture 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.1\ACAD-F004\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Civil 2006">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.2\ACAD-4000:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Civil 3D 2007">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.0\ACAD-5000:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Civil 3D 2008">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.1\ACAD-6000:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Civil 3D 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7000:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Civil 3D 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.0\ACAD-8000:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Civil 3D 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.1\ACAD-9000:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Civil 3D 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.2\ACAD-A000:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Civil 3D 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.0\ACAD-B000\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Civil 3D 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.1\ACAD-D000\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Civil 3D 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.0\ACAD-E000\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Civil 3D 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.1\ACAD-F000\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD ecscad 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7029:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD ecscad 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.0\ACAD-8029:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD ecscad 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.1\ACAD-9029:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD ecscad 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.2\ACAD-A029:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD ecscad 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.0\ACAD-B029\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD ecscad 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.1\ACAD-D029\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD ecscad 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.0\ACAD-E029\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD ecscad 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.1\ACAD-F029\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Electrical 2004">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.0\ACAD-207:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Electrical 2005">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.1\ACAD-307:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Electrical 2006">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.2\ACAD-4007:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Electrical 2007">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.0\ACAD-5007:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Electrical 2008">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.1\ACAD-6007:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Electrical 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7007:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Electrical 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.0\ACAD-8007:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Electrical 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.1\ACAD-9007:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Electrical 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.2\ACAD-A007:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Electrical 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.0\ACAD-B007\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Electrical 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.1\ACAD-D007\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Electrical 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.0\ACAD-E007\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Electrical 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.1\ACAD-F007\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Land Desktop 2">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R15.0\ACAD-5:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Land Desktop 2i">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R15.0\ACAD-8:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Land Desktop 3">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R15.0\ACAD-138:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Land Desktop 2004">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.0\ACAD-208:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Land Desktop 2005">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.1\ACAD-308:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Land Desktop 2006">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.2\ACAD-4008:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Land Desktop 2007">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.0\ACAD-5008:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Land Desktop 2008">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.1\ACAD-6008:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Land Desktop 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7008:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Map 3D 2000">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R15.0\ACAD-2:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+    </Package>
+    <Package Name="Map 3D 2002">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R15.0\ACAD-2:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Map 3D 2004">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.0\ACAD-202:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Map 3D 2005">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.1\ACAD-302:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Map 3D 2006">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.2\ACAD-4002:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Map 3D 2007">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.0\ACAD-5002:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Map 3D 2008">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.1\ACAD-6002:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Map 3D 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7002:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Map 3D 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.0\ACAD-8002:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Map 3D 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.1\ACAD-9002:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Map 3D 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.2\ACAD-A002:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Map 3D 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.0\ACAD-B002\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Map 3D 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.1\ACAD-D002\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Map 3D 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.0\ACAD-E002\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Map 3D 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.1\ACAD-F002\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Mechanical 2000">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R15.0\ACAD-5:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Mechanical 2000i">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R15.0\ACAD-7:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Mechanical R6">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R15.0\ACAD-106:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Mechanical 2004">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.0\ACAD-205:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Mechanical 2004 DX (Inventor)">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.0\ACAD-215:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Mechanical 2004 DX">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.0\ACAD-223:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Mechanical 2005">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.1\ACAD-305:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Mechanical 2006">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.2\ACAD-4005:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Mechanical 2007">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.0\ACAD-5005:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Mechanical 2008">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.1\ACAD-6005:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Mechanical 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7005:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Mechanical 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.0\ACAD-8005:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Mechanical 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.1\ACAD-9005:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Mechanical 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.2\ACAD-A005:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Mechanical 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.0\ACAD-B005\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Mechanical 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.1\ACAD-D005\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Mechanical 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.0\ACAD-E005\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Mechanical 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.1\ACAD-F005\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Mechanical Desktop 4 (2000)">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R15.0\ACAD-3:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Mechanical Desktop 5 (2000i)">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R15.0\ACAD-6:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Mechanical Desktop 6 (2002)">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R15.0\ACAD-103:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Mechanical Desktop 2004">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.0\ACAD-203:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Mechanical Desktop 2004 (Inventor)">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.0\ACAD-213:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Mechanical Desktop 2005 for Autodesk Inventor Series">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.1\ACAD-303:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Mechanical Desktop 2005 for Autodesk Inventor Professional">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.1\ACAD-313:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Mechanical Desktop 2006 for Autodesk Inventor Series">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.2\ACAD-4003:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Mechanical Desktop 2006 for Autodesk Inventor Professional">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.2\ACAD-4013:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mechanical Desktop 2007 for Autodesk Inventor Series">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.0\ACAD-5003:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mechanical Desktop 2007 for Autodesk Inventor Professional">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.0\ACAD-5013:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mechanical Desktop 2008 for Autodesk Inventor Series">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.1\ACAD-6003:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mechanical Desktop 2008 for Autodesk Inventor Professional">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.1\ACAD-6013:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mechanical Desktop 2008 for Autodesk Inventor Professional Routed Systems">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.1\ACAD-6014:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mechanical Desktop 2008 for Autodesk Inventor Professional Simulation">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.1\ACAD-6015:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mechanical Desktop 2009 for Autodesk Inventor Series">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7003:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mechanical Desktop 2009 for Autodesk Inventor Professional">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7013:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mechanical Desktop 2009 for Autodesk Inventor Professional for Routed Systems">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7014:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Mechanical Desktop 2009 for Autodesk Inventor Professional for Simulation">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7015:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Building Systems 2004">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.0\ACAD-206:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Building Systems 2005">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.1\ACAD-306:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Building Systems 2006">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.2\ACAD-4006:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Building Systems 2007">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.0\ACAD-5006:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD MEP 2008">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.1\ACAD-6006:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD MEP 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7006:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD MEP 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.0\ACAD-8006:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD MEP 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.1\ACAD-9006:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD MEP 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.2\ACAD-A006:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD MEP 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.0\ACAD-B006\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD MEP 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.1\ACAD-D006\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD MEP 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.0\ACAD-E006\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD MEP 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.1\ACAD-F006\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD OEM 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD OEM\R13\AOEM-800A:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD OEM 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD OEM\R14\AOEM-900A:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD OEM 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD OEM\R15\AOEM-A00A:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD OEM 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD OEM\R16\AOEM-B00A:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD OEM 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD OEM\R17\AOEM-D00A:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD OEM 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD OEM\R18\AOEM-E00A:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD OEM 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD OEM\R19\AOEM-F00A:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Plant P&amp;ID 2008">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.1\ACAD-6016:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Plant P&amp;ID 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7016:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Plant P&amp;ID 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.0\ACAD-8016:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD P&amp;ID 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.1\ACAD-9016:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD P&amp;ID 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.2\ACAD-A016:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD P&amp;ID 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.0\ACAD-B016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD P&amp;ID 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.1\ACAD-D016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD P&amp;ID 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.0\ACAD-E016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD P&amp;ID 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.1\ACAD-F016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Plant 3D 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7017:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Plant 3D 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.0\ACAD-8017:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Plant 3D 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.1\ACAD-9017:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Plant 3D 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.2\ACAD-A017:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Plant 3D 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.0\ACAD-B017\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Plant 3D 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.1\ACAD-D017\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Plant 3D 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.0\ACAD-E017\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Plant 3D 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.1\ACAD-F017\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Raster Design 2004">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R16.0\ACAD-201:{locale}\Add-Ons\RasterDesign\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandAloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Raster Design 2005">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R16.1\ACAD-301:{locale}\Add-Ons\RasterDesign\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandAloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Raster Design 2006">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R16.2\ACAD-4001:{locale}\Add-Ons\RasterDesign\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandAloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Raster Design 2007">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R17.0\ACAD-5001:{locale}\Add-Ons\RasterDesign\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandAloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Raster Design 2008">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R17.1\ACAD-6001:{locale}\Add-Ons\RasterDesign\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandAloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Raster Design 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R17.2\ACAD-7001:{locale}\Add-Ons\RasterDesign\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandAloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Raster Design 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.0\ACAD-8001:{locale}\Add-Ons\RasterDesign\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Raster Design 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.1\ACAD-9001:{locale}\Add-Ons\RasterDesign\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Raster Design 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R18.2\ACAD-A001:{locale}\Add-Ons\RasterDesign\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Raster Design 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R19.0\ACAD-B001:{locale}\Add-Ons\RasterDesign\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Raster Design 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R19.1\ACAD-D001:{locale}\Add-Ons\RasterDesign\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Raster Design 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R20.0\ACAD-E001:{locale}\Add-Ons\RasterDesign\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Raster Design 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\R20.1\ACAD-F001:{locale}\Add-Ons\RasterDesign\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Structural Detailing 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.0\ACAD-8030:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Structural Detailing 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.1\ACAD-9030:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Structural Detailing 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.2\ACAD-A030:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Structural Detailing 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.0\ACAD-B030\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Structural Detailing 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.1\ACAD-D030\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Structural Detailing 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.0\ACAD-E030\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Structural Detailing 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.1\ACAD-F030\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Utility Design 2006">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R16.2\ACAD-4022:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Utility Design 2007">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.0\ACAD-5022:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Utility Design 2008">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.1\ACAD-6022:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Utility Design 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R17.2\ACAD-7022:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Utility Design 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.0\ACAD-8022:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Utility Design 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.1\ACAD-9022:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Utility Design 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R18.2\ACAD-A022:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD Utility Design 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.0\ACAD-B022\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Utility Design 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R19.1\ACAD-D022\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Utility Design 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.0\ACAD-E022\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD Utility Design 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\R20.1\ACAD-F022\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD LT 2000">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R2000\ACLT-1:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD LT 2000i">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R7\ACLT-1:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD LT 2002">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R8\ACLT-1:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD LT 2004">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R9\ACLT-201:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD LT 2005">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R10\ACLT-301:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD LT 2006">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R11\ACLT-4001:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD LT 2007">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R12\ACADLT-5001:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD LT 2008">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R13\ACADLT-6001:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD LT 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R14\ACADLT-7001:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD LT 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R15\ACADLT-8001:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD LT 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R16\ACADLT-9001:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD LT 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R17\ACADLT-A001:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoCAD LT 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R18\ACADLT-B001\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD LT 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R20\ACADLT-D001\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD LT 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R21\ACADLT-E001\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk AutoCAD LT 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD LT\R22\ACADLT-F001\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoSketch 8">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoSketch\8.0\Environment\">
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoSketch 9">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoSketch\9.0\Environment\">
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+    </Package>
+    <Package Name="AutoSketch 10">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoSketch\10.0\Environment\">
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Ecotect Analysis 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Ecotect\2010\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Ecotect Analysis 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Ecotect\2011\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Infrastructure Map Server 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\IMServer\R2.3\IMSRV-2301:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Infrastructure Map Server 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\IMServer\R2.4\IMSRV-2401:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Infrastructure Map Server 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\IMServer\R2.5\IMSRV-2501:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Infrastructure Map Server 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\IMServer\R2.6\IMSRV-2601:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Infrastructure Modeler 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\IModeler\R1.0\IM-1001:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Infrastructure Modeler 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\IModeler\R2.0\IM-2001:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Infrastructure Modeler 2013 - Release 2.1" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\IModeler\R2.1\IM-2001:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk InfraWorks 2014">
+	  <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\IModeler\R3.0\IM-3001\">
+	    <Property ResultName="Product" PropertyName="ProductName" />
+        <Property ResultName="Version" PropertyName="ReleaseIn" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\IModeler\R3.0\IM-3001\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk InfraWorks 2014 R2">
+	  <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\IModeler\R3.1\IM-3101\">
+	    <Property ResultName="Product" PropertyName="ProductName" />
+        <Property ResultName="Version" PropertyName="ReleaseIn" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\IModeler\R3.1\IM-3101\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+	<Package Name="Autodesk InfraWorks 2014 R3">
+	  <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\IModeler\R3.2\IM-3201\">
+	    <Property ResultName="Product" PropertyName="ProductName" />
+        <Property ResultName="Version" PropertyName="ReleaseIn" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\IModeler\R3.2\IM-3201\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk InfraWorks 360 Pro">
+	  <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\IModeler\R3.3\IM-3301\">
+	    <Property ResultName="Product" PropertyName="ProductName" />
+        <Property ResultName="Version" PropertyName="ReleaseIn" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\IModeler\R3.3\IM-3301\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk InfraWorks 360">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\InfraWorks 360\">
+		<Property ResultName="Product" PropertyName="ProductName" />
+        <Property ResultName="Version" PropertyName="ReleaseIn" />
+		<Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk InfraWorks">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\InfraWorks\">
+	    <Property ResultName="Product" PropertyName="ProductName" />
+        <Property ResultName="Version" PropertyName="ReleaseIn" />
+		<Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+	  <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\InfraWorks\AdLM\">
+	    <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor Series 7">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion7.0\">
+        <Property ResultName="Version" PropertyName="ProductVersion" />
+        <Property ResultName="Serial" PropertyName="SerialNumberPrefix" />
+        <Property ResultName="SerialSuffix" PropertyName="SerialNumberSuffix" />
+        <Property ResultName="Type" PropertyName="LicenseType" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor Series 8">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion8.0\">
+        <Property ResultName="Version" PropertyName="ProductVersion" />
+        <Property ResultName="Serial" PropertyName="SerialNumberPrefix" />
+        <Property ResultName="SerialSuffix" PropertyName="SerialNumberSuffix" />
+        <Property ResultName="Type" PropertyName="LicenseType" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor Series 9">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion9.0\">
+        <Property ResultName="Version" PropertyName="ProductVersion" />
+        <Property ResultName="Serial" PropertyName="SerialNumberPrefix" />
+        <Property ResultName="SerialSuffix" PropertyName="SerialNumberSuffix" />
+        <Property ResultName="Type" PropertyName="LicenseType" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor Series 10">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion10.0\">
+        <Property ResultName="Version" PropertyName="ProductVersion" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor Series 11">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion11.0\">
+        <Property ResultName="Version" PropertyName="ProductVersion" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor 2008">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion12.0\">
+        <Property ResultName="Version" PropertyName="ProductVersion" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion13.0\">
+        <Property ResultName="Version" PropertyName="ProductVersion" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion14.0\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion14.0\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion15.0\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion15.0\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion16.0\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+        <Property ResultName="Type" PropertyName="LicenseMode" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion17.0\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+        <Property ResultName="Type" PropertyName="LicenseMode" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion18.0\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+        <Property ResultName="Type" PropertyName="LicenseMode" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion19.0\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+        <Property ResultName="Type" PropertyName="LicenseMode" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor\RegistryVersion20.0\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+        <Property ResultName="Type" PropertyName="LicenseMode" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor LT 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor LT\RegistryVersion16.0\">
+        <Property ResultName="Type" PropertyName="LicenseMode" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor LT 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor LT\RegistryVersion17.0\">
+        <Property ResultName="Type" PropertyName="LicenseMode" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor LT 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor LT\RegistryVersion18.0\">
+        <Property ResultName="Type" PropertyName="LicenseMode" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor LT 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor LT\RegistryVersion19.0\">
+        <Property ResultName="Type" PropertyName="LicenseMode" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor LT 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor LT\RegistryVersion20.0\">
+        <Property ResultName="Type" PropertyName="LicenseMode" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor OEM 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor OEM\RegistryVersion14.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor OEM 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor OEM\RegistryVersion15.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor OEM 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor OEM\RegistryVersion16.0\">
+        <Property ResultName="Type" PropertyName="LicenseMode" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor OEM 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor OEM\RegistryVersion17.0\">
+        <Property ResultName="Type" PropertyName="LicenseMode" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor OEM 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor OEM\RegistryVersion18.0\">
+        <Property ResultName="Type" PropertyName="LicenseMode" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor OEM 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor OEM\RegistryVersion19.0\">
+        <Property ResultName="Type" PropertyName="LicenseMode" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor OEM 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Inventor OEM\RegistryVersion20.0\">
+        <Property ResultName="Type" PropertyName="LicenseMode" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor Publisher 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\InventorPublisher\2012\Adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor Publisher 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\InventorPublisher\2013\Adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor Publisher 2013 R1" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\InventorPublisher\2013 R1\Adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Inventor Publisher 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\InventorPublisher\2015\Adlm\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk LandXplorer Studio Professional 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\LandXplorer\2011\LDX-1:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk MapGuide Enterprise 2011">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\MGEServer\R2.2\MGESRV-2201:{locale}\" Substitute="Locale">
+        <Property ResultName="Version" PropertyName="Release" />
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Moldflow Adviser 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Adviser\2012\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Adviser\2012\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Moldflow Adviser 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Adviser\2013\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Adviser\2013\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Moldflow Adviser 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Adviser\2014\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Adviser\2014\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Moldflow Adviser 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Adviser\2015\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Adviser\2015\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Moldflow Adviser 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Adviser\2016\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Adviser\2016\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Moldflow CAD Doctor 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow CAD Doctor\2012\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow CAD Doctor\2012\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Moldflow CAD Doctor 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow CAD Doctor\2013\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow CAD Doctor\2013\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Moldflow Design Link for CATIA V5 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Moldflow Design Link\2012\Catia\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Moldflow Design Link\2012\Catia\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Moldflow Design Link for Parasolid 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Moldflow Design Link\2012\Parasolid\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Moldflow Design Link\2012\Parasolid\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Moldflow Design Link for Pro ENGINEER 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Moldflow Design Link\2012\ProE\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Moldflow Design Link\2012\ProE\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Moldflow Design Link 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Moldflow Design Link\2013\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Moldflow Design Link\2013\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Moldflow Insight 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Insight\2012\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Insight\2012\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Moldflow Insight 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Insight\2013\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Insight\2013\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Moldflow Insight 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Insight\2014\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Insight\2014\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Moldflow Insight 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Insight\2015\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Insight\2015\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Moldflow Insight 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Insight\2016\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Insight\2016\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Moldflow Synergy 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Synergy\2012\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Synergy\2012\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Moldflow Synergy 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Synergy\2013\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Synergy\2013\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Moldflow Synergy 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Synergy\2014\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Synergy\2014\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Moldflow Synergy 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Synergy\2015\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Synergy\2015\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Moldflow Synergy 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Synergy\2016\">
+        <Property ResultName="Product" PropertyName="ProductName" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Moldflow Synergy\2016\AdLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Nastran 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AdLM\NASTRAN\2015\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Nastran 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AdLM\NASTRAN\2016\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Nastran In-CAD 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AdLM\NASTRAN_INCAD\2015\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Nastran In-CAD 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AdLM\NASTRAN_INCAD\2016\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Navisworks Review 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Navisworks Review\7.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Navisworks Review x64\7.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Navisworks Review 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Navisworks Review\8.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\Navisworks Review x64\8.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Navisworks Manage 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Manage\8.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Manage x64\8.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Navisworks Manage 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Manage\9.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Manage x64\9.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Navisworks Manage 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Manage\10.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Manage x64\10.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Navisworks Manage 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Manage\11.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Manage x64\11.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Navisworks Manage 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Manage\12.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Manage x64\12.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Navisworks Manage 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Manage\13.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Manage x64\13.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Navisworks Simulate 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Simulate\8.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Simulate x64\8.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Navisworks Simulate 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Simulate\9.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Simulate x64\9.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Navisworks Simulate 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Simulate\10.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Simulate x64\10.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Navisworks Simulate 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Simulate\11.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Simulate x64\11.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Navisworks Simulate 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Simulate\12.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Simulate x64\12.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Navisworks Simulate 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Simulate\13.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Navisworks Simulate x64\13.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Quantity Takeoff 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\QTO2010\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Quantity Takeoff 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\QTO2011\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Quantity Takeoff 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\QTO2012\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Quantity Takeoff 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\QTO2013\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit 2013\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit 2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit 2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit 2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Revit Architecture 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\RAC 2010\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit Architecture 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\RAC 2011\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit Architecture 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\RAC 2012\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit Architecture 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit Architecture 2013\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit Architecture 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit Architecture 2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit Architecture 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit Architecture 2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit Architecture 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit Architecture 2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit MEP-B 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\RME 2010\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit MEP-B 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\RME 2011\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit MEP 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\RME 2012\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit MEP 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit MEP 2013\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit MEP 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit MEP 2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit MEP 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit MEP 2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit MEP 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit MEP 2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Revit Structure 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\RST 2010\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Revit Structure 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\RST 2011\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit Structure 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\RST 2012\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit Structure 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit Structure 2013\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit Structure 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit Structure 2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit Structure 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit Structure 2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit Structure 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit Structure 2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit LT 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit LT 2013\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit LT 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit LT 2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit LT 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit LT 2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Revit LT 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Revit\Autodesk Revit LT 2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Robot Structural Analysis 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Structural\License\RSA 2011\">
+        <Property ResultName="Type" PropertyName="LicType" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Robot Structural Analysis 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Structural\License\RSA 2012\">
+        <Property ResultName="Type" PropertyName="LicType" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Robot Structural Analysis 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Structural\License\RSA 2013\">
+        <Property ResultName="Type" PropertyName="LicType" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Robot Structural Analysis Professional 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Structural\License\RSA 2011\">
+        <Property ResultName="Type" PropertyName="LicType" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Robot Structural Analysis Professional 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Structural\License\RSA 2012\">
+        <Property ResultName="Type" PropertyName="LicType" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Robot Structural Analysis Professional 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Structural\License\RSA 2013\">
+        <Property ResultName="Type" PropertyName="LicType" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Robot Structural Analysis Professional 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Structural\License\RSA 2014\">
+        <Property ResultName="Type" PropertyName="LicType" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Robot Structural Analysis Professional 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Structural\License\RSA 2015\">
+        <Property ResultName="Type" PropertyName="LicType" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Robot Structural Analysis Professional 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Structural\License\RSA 2016\">
+        <Property ResultName="Type" PropertyName="LicType" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="CADdoctor for Autodesk Simulation 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\CADdoctor for Autodesk Simulation\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="CADdoctor for Autodesk Simulation 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\CADdoctor for Autodesk Simulation\2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="CADdoctor for Autodesk Simulation 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\CADdoctor for Autodesk Simulation\2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation DFM 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Simulation DFM\2013\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation DFM 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Simulation DFM\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation DFM 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Simulation DFM\2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation DFM 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Simulation DFM\2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Algor Simulation 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Algor, Inc.\Algor Software\Algor\2011.00.00\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Mechanical 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Algor, Inc.\Algor Software\Algor\2012.00\">
+        <Property ResultName="Product" PropertyName="Product Name" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Algor, Inc.\Algor Software\Algor\2012.00\ADLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Mechanical 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Algor\2013.00\">
+        <Property ResultName="Product" PropertyName="Product Name" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Algor\2013.00\ADLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Mechanical 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Algor\2014.00\">
+        <Property ResultName="Product" PropertyName="Product Name" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Algor\2014.00\ADLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Mechanical 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Algor\2015.00\">
+        <Property ResultName="Product" PropertyName="Product Name" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Algor\2015.00\ADLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Mechanical 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Algor\2016.00\">
+        <Property ResultName="Product" PropertyName="Product Name" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Algor\2016.00\ADLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Composite Analysis 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Composite Analysis\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Composite Analysis 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Composite Analysis\2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Composite Analysis 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Composite Analysis\2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Composite Design 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Composite Design\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Composite Design 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Composite Design\2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Composite Design 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Composite Design\2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Mechanical 360 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Algor\2013.00.WS\">
+        <Property ResultName="Product" PropertyName="Product Name" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Algor\2013.00.WS\ADLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Mechanical 360 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Algor\2014.00.WS\">
+        <Property ResultName="Product" PropertyName="Product Name" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Algor\2014.00.WS\ADLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Simulation Mechanical 360 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Algor\2015.00.WS\">
+        <Property ResultName="Product" PropertyName="Product Name" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Simulation\Algor\2015.00.WS\ADLM\" Mandatory="true">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Alias Sketch 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\SketchBookDesigner\2011\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Sketchbook Designer 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\SketchBookDesigner\2011\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk SketchBook Designer 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\SketchBookDesigner\2012\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk SketchBook Designer 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\SketchBookDesigner\2013\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk SketchBook Designer 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\AdLM\Autodesk\SketchBookDesigner\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk SketchBook Pro">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\SketchBook Pro\">
+        <Property ResultName="Serial" PropertyName="SerialNumber" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk SketchBook Pro for Enterprise 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Adlm\Autodesk\SketchBook Pro\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Autodesk\Adlm\Autodesk\SketchBook Pro\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk SketchBook Pro 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Adlm\Autodesk\SketchBook Pro\2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk SketchBook Pro 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Adlm\Autodesk\SketchBook Pro\2016\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Softimage 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Softimage\8.0.201.0\SFTIM-1:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Installation Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Softimage\8.0.201.1001\SFTIM-1:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Installation Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Softimage\8.0.202.0\SFTIM-1:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Installation Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Softimage 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Softimage\9.0.81.0\SFTIM-1:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Installation Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Softimage 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Softimage\10.0.422.0\SFTIM-1:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Installation Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Softimage 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Softimage\11.0.525.0\SFTIM-1:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Installation Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Softimage 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AdLM\Softimage\2014\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Softimage 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AdLM\Softimage\2015\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Softimage Advanced 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Softimage Advanced\8.0.201.0\SFTIMA-1:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Installation Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="3ds max R6">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsmax\6.0\">
+        <Property ResultName="Serial" PropertyName="Serial Number" />
+      </SubKey>
+    </Package>
+    <Package Name="3ds max R7">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsmax\7.0\">
+        <Property ResultName="Serial" PropertyName="Serial Number" />
+      </SubKey>
+    </Package>
+    <Package Name="3ds max R8">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsmax\8.0\">
+        <Property ResultName="Serial" PropertyName="Serial Number" />
+      </SubKey>
+    </Package>
+    <Package Name="3ds max R9">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsmax\9.0\">
+        <Property ResultName="Serial" PropertyName="Serial Number" />
+      </SubKey>
+    </Package>
+    <Package Name="3ds max 2008">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsmax\10.0\">
+        <Property ResultName="Serial" PropertyName="Serial Number" />
+      </SubKey>
+    </Package>
+    <Package Name="3ds max 2009">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsmax\11.0\">
+        <Property ResultName="Serial" PropertyName="Serial Number" />
+      </SubKey>
+    </Package>
+    <Package Name="3ds Max 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsMax\12.0\MAX-1:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk 3ds Max 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsMax\13.0\MAX-1:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk 3ds Max 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsMax\14.0\MAX-1:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk 3ds Max 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsMax\15.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk 3ds Max 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsMax\16.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk 3ds Max 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsMax\17.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk 3ds Max 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsMax\18.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="3ds Max Design 2010" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsMaxDesign\12.0\MAX-1:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk 3ds Max Design 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsMaxDesign\13.0\MAX-1:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk 3ds Max Design 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsMaxDesign\14.0\MAX-1:{locale}\AdLM\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk 3ds Max Design 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsMaxDesign\15.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk 3ds Max Design 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsMaxDesign\16.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk 3ds Max Design 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\3dsMaxDesign\17.0\AdLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vault Collaboration 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Data Management Server Console\15.0\ADMSCOL-0970:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vault Collaboration 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Data Management Server Console\16.0\ADMSCOL-1670:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vault Collaboration 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Data Management Server Console\17.0\ADMSCOL-1770:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vault Professional 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Data Management Server Console\15.0\ADMSPRO-0980:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vault Professional 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Data Management Server Console\16.0\ADMSPRO-1680:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vault Professional 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Data Management Server Console\17.0\ADMSPRO-1780:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vault Professional 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Data Management Server Console\18.0\ADMSPRO-1880:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vault Professional 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\PLM\Autodesk Data Management Server 19.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vault Professional 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\PLM\Autodesk Data Management Server 21.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vault Workgroup 2011" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Data Management Server Console\15.0\ADMSWGP-0960:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vault Workgroup 2012" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Data Management Server Console\16.0\ADMSWGP-1660:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vault Workgroup 2013" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Data Management Server Console\17.0\ADMSWGP-1760:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vault Workgroup 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Autodesk Data Management Server Console\18.0\ADMSWGP-1860:{locale}\" Substitute="Locale">
+        <Property ResultName="Type" PropertyName="StandaloneNetworkType" DecodeMethod="AutodeskNetworkType" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vault Workgroup 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\PLM\Autodesk Data Management Server 19.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vault Workgroup 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\PLM\Autodesk Data Management Server 21.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vehicle Tracking 2014" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Vehicle Tracking\2014\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vehicle Tracking 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Vehicle Tracking\2015\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Vehicle Tracking 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\Vehicle Tracking\2016\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Viz 2005">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\VIZ\6.0\">
+        <Property ResultName="Version" PropertyName="CurrentVersion" />
+        <Property ResultName="Serial" PropertyName="Serial Number" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Viz 2006">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\VIZ\7.0\">
+        <Property ResultName="Version" PropertyName="CurrentVersion" />
+        <Property ResultName="Serial" PropertyName="Serial Number" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Viz 2007">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\VIZ\8.0\">
+        <Property ResultName="Version" PropertyName="CurrentVersion" />
+        <Property ResultName="Serial" PropertyName="Serial Number" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk Viz 2008">
+      <SubKey Name="HKEY_LOCAL_MACHINE\Software\Autodesk\VIZ\9.0\">
+        <Property ResultName="Version" PropertyName="CurrentVersion" />
+        <Property ResultName="Serial" PropertyName="Serial Number" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk VRED 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\VRED\RegistryVersion7.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk VRED 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\VRED\RegistryVersion8.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk VRED Render Node 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\VREDCluster\RegistryVersion7.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk VRED Render Node 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\VREDCluster\RegistryVersion8.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk VRED Design 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\VREDDesign\RegistryVersion7.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk VRED Design 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\VREDDesign\RegistryVersion8.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk VRED Presenter 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\VREDPresenter\RegistryVersion7.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk VRED Presenter 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\VREDPresenter\RegistryVersion8.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk VRED Professional 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\VREDPro\RegistryVersion7.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk VRED Professional 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\VREDPro\RegistryVersion8.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk VRED Server 2015" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\VREDServer\RegistryVersion7.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+    <Package Name="Autodesk VRED Server 2016" Process="PITLookup">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\VREDServer\RegistryVersion8.0\ADLM\">
+        <Property ResultName="Type" PropertyName="Type" DecodeMethod="AutodeskLicenseMode" />
+      </SubKey>
+    </Package>
+  </Publisher>
+</RegistryPackages>

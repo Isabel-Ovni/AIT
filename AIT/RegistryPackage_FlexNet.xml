@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistryPackages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Publisher Name="Flexera">
+    <Package Name="Common Licensing">
+      <SubKey Name="HKEY_LOCAL_MACHINE\SOFTWARE\FLEXlm License Manager\" Recurse="true" RecurseDepth="1" >
+        <Property ResultName="FlexLM Command Line Params" PropertyName="cmdlineparams" />
+        <Property ResultName="FlexLM License File" PropertyName="License" />
+        <Property ResultName="FlexLM Lmgrd File" PropertyName="Lmgrd" />
+        <Property ResultName="FlexLM Log File" PropertyName="LMGRD_LOG_FILE" />
+        <Property ResultName="FlexLM Service Name"   PropertyName="Service" />
+      </SubKey>
+    </Package>
+  </Publisher>
+</RegistryPackages>
